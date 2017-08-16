@@ -1,0 +1,948 @@
+﻿CODE|LN|NOTE
+001|1|Caliper pin bolt torque listed. Mounting bracket torque
+001|2|is 56 ft-lbs.
+002|1|Caliper pin bolt torque listed. Mounting bracket torque
+002|2|is 74 ft-lbs.
+003|1|Lock pin listed. Support bracket, 36-51 ft-lb.
+004|1|Caliper to bracket. Bracket to knuckle, 65 ft-lb.
+005|1|Caliper to bracket. Bracket to knuckle, 34 ft-lbs.
+006|1|Caliper to bracket. Bracket to knuckle, 29-54 ft-lbs.
+007|1|Key screws listed. Caliper mounting bolts, 155-185 ft-lbs.
+008|1|Guide pins.  Caliper mounting bolts, 50 ft-lbs.
+009|1|Above rivet head.
+010|1|Replace when lining is the same thickness as the backing
+010|2|plate.
+012|1|Runout is measured with rotor on vehicle.
+013|1|are for vented rotors only.
+014|1|May use electric wear sensor that lights an instrument
+014|2|panel indicator.
+015|1|Replace pads when lining is the same thickness as the
+015|2|backing plate.
+016|1|Special tool required to check front pads.
+017|1|Above rivet head or backing plate.
+018|1|Replace shoes when lining is the same thickness as the
+018|2|backing plate.
+019|1|Measured above rivet head.
+020|1|Includes backing plate.
+021|1|With bonded linings, the minimum amount of friction
+021|2|above the backing plate is .060".
+022|1|With riveted linings, .097".
+023|1|With aluminum wheels, 100 ft-lbs.
+024|1|With aluminum wheels, 65-80 ft-lbs.
+025|1|With aluminum wheels, 58-73 ft-lbs.
+026|1|With aluminum wheels, 90 ft-lbs.
+027|1|With cone type nut & 9/16-18 threads, 120-150 ft-lbs. With
+027|2|flanged nut, 130-160 ft-lbs.
+028|1|With cone type 5/8" nut, 175-225. With flanged nut, 300-350.
+029|1|With cone type nut & 5/8-18 threads, 200 ft-lbs. With
+029|2|flanged type nut, 325 ft-lbs. With flanged nut and DRW,
+029|3|300-350 ft-lbs.
+030|1|5-lug 1/2", 100. 5-lug 9/16", 120. 6-lug, steel whl., 90.
+030|2|6-lug, alum. whl., 100. 8-lug SRW, 120. 8-lug DRW, 140.
+031|1|With DRW: 8-lug, 140; 10-lug, 175.
+032|1|With aluminum wheels, 90.
+033|1|With optional wheels, 100.
+034|1|With aluminum wheels, 87.
+035|1|With aluminum wheels, 65-72.
+036|1|4-lug wheels, 55-85.
+037|1|With aluminum wheels, 87-105.
+038|1|With styled wheels, 87-101.
+039|1|With aluminum wheels, 69-80.
+040|1|With aluminum wheels, 57-72.
+041|1|With 7/16" wheel studs, 80.
+042|1|Discard when the diameter is greater than the
+042|2|maximum machining specification.
+043|1|With aluminum wheels, 93.
+044|1|Discard when the thickness is smaller than the minimum
+044|2|machining specification.
+045|1|When using semi-metallic pads, finish must be 10-50.
+046|1|Measured off vehicle. When measured on vehicle, .008.
+047|1|Do not machine rotors.
+048|1|Measured off vehicle. When measured on vehicle, .005.
+049|1|Measured off vehicle.
+050|1|With aluminum wheels, .0003.
+051|1|Discard if runout exceeds .012.
+052|1|When rotor is serviced on vehicle, .002.
+053|1|Specification only applies when rotor is serviced on vehicle
+054|1|FWD models with ABS, .0039.
+055|1|When rotor is serviced on vehicle, .004.
+056|1|Measured on vehicle. When measured off vehicle, .003.
+057|1|With one piece hub and rotor, .0007.
+058|1|With one piece hub and rotor, .003.
+059|1|When measured on vehicle, .0016.
+060|1|When measured on vehicle, .0032.
+061|1|With aluminum wheels, 105.
+062|1|Lucas. External head bolt. With socket head bolt, 44.
+063|1|New rotors must be ATT .0004.
+064|1|When measured on the vehicle, .002
+065|1|Minimum machining value is also the minimum ATT which new
+065|2|pads may be installed.
+066|1|Wheel measured on vehicle .002
+068|1|Dual wheels, 175
+069|1|Only with steel rear caliper  mount holes not aluminum.
+070|1|2001-2000 12 mm 100 ft-lbs, 14 mm 150 ft-lbs.
+071|1|If fitted with ribbed bolt; 70 ft-lbs., when fitted with
+071|2|Socket-head cap screw, 44 ft-lbs.
+072|1|Minimum disc thickness stamped on disc
+073|1|Alloy wheel, 74-100 ft-lbs. Steel wheel, 66-87 ft-lbs.
+074|1|12mm, 100 ft-lbs. 14mm, 150 ft-lbs.
+075|1|Models with single wheel, 140 ft-lbs. Models with dual
+075|2|wheels, 175  ft-lbs.
+076|1|Loaded Vehicle, 165 ft-lbs.
+077|1|Ford rear axle, 150 ft-lbs. Dana rear axle, 100 ft-lbs.
+078|1|Models W/O 4 wheel steering, 122 ft-lbs. Models W/
+078|2|4 wheel steering, 148 ft-lbs.
+079|1|Lower bolt, 25 ft-lbs. Upper bolt 29 ft-lbs.
+080|1|Torque to 70 ft-lbs and then tighten another 37 degrees.
+081|1|Warning! Before bleeding the system, high pressure must be
+081|2|released from the accumulator and power unit. A special
+081|3|ALB-T wrench (Part No. 07HAA-SG00100) or equivalent
+081|4|must be used to bleed the power unit valve under the red
+081|5|cap. System pressures may be as much as 3000 PSI.
+081|6|A face shield should be worn and the connections covered
+081|7|with a rag when bleeding the system. Note: If ABS light
+081|8|comes on and stays on, remove the 15 amp fuse to erase
+081|9|codes and turn off light.
+082|1|Accumulator pressures in the hydraulic
+082|2|lines is very high. Be sure to discharge the
+082|3|pressure by pumping the brake pedal 25-30 times
+082|4|with the ignition off before servicing the system.
+082|5|Do not turn the ignition on during the bleeding sequence.
+083|1|Warning! When driving the vehicle before and after service,
+083|2|be sure to do so in a safe area.
+084|1|Do not allow the pump to run for more than 60 seconds or a
+084|2|cool down time of several minutes must be allowed.
+085|1|Warning! System pressures may be as much as 3000 PSI. A face
+085|2|shield should be worn and the connections covered with a rag
+085|3|when bleeding the system.
+086|1|With solid rotor.
+087|1|With vented rotor.
+088|1|If no fluid flows from the bleeder valve, loosen the
+088|2|flexible hose union bolt on the accumulator.
+088|3|This will make it easier  for fluid to come out of the
+088|4|bleeder valve.
+089|1|1993-1994 LS400, the pump will operate for 20 seconds and
+089|2|then shut off. The engine must be restarted to run the pump.
+089|3|If the system sets a trouble code, the pump will not run.
+089|4|Clear trouble codes to restart the pump.
+089|5|Check for trouble codes after following procedure and
+089|6|clear any that are found.
+091|1|Many models use master cylinders that do not have check
+091|2|valves. When bleeding the master cylinder, remove the brake
+091|3|lines. Depress the brake pedal, put a finger over the open
+091|4|port and then release the pedal. Move on to next port.
+091|5|Repeat until air is removed from the master cylinder.
+092|1|When pressure bleeding the system, follow steps EXCEPT
+092|2|do not apply the brake pedal
+093|1|Perform this procedure for the brakes connecting to the
+093|2|secondary chamber of the master cylinder first and then
+093|3|for the ones connecting. Road test the vehicle and check
+093|4|for trouble codes.
+094|1|Extreme care must be taken when driving the vehicle.
+094|2|When ABS initialization occurs the brake pedal may become
+094|3|very soft and travel near the floor. Use extreme care to
+094|4|assure adequate braking during this procedure. After
+094|5|bleeding system inspect  brake pedal feel and
+094|6|road test vehicle. After the road test, the manufacturer
+094|7|recommends bleeding the system again.
+095|1|With ABS, using the (NGS) Scan tool and accessing
+095|2|SERVICE BLEED FUNCTION drives air from the
+095|3|ABS actuator.
+096|1|DO NOT pressure bleed without proper master cylinder adapter
+096|2|The wrong adapter can lead to leakage, and or draw air back
+096|3|to the system.
+097|1|Then turn an additional 45 degrees
+098|1|Maximum machining limit per friction ring side, .031 inch
+098|2|M series and models with Perforated Rotors Do Not
+098|3|Machine Rotors, Replace only
+099|1|0.5 3.5 Ra (microns)
+100|1|Installed, .008 inch ; removed, .0016 inch
+101|1|Models 690.6, 901-905, WD2YD441, YD541 130-150 ft-lbs
+101|2|Models WD5.WD141, WD241, WD341, WD2, YD141, YD241, YD341
+101|3|167-187 ft-lbs.
+102|1|Discard thickness stamped on drum.
+103|1|Discard thickness stamped on disc.
+104|1|With rear of axle brake calipers.
+105|1|Not specified by manufacturer.
+106|1|With rotor attached to vehicle.
+107|1|Runout limit with wheel fitted
+108|1|Maximum machining limit per friction side .031 inch.
+109|1|Front caliper with M14-10.9: bolts
+109|2|163 ft-lbs; M16-10.9: bolts 207 ft-lbs
+110|1|Front all with code Z07 + 979: 133 ft-lbs. All without
+110|2|code Z07 + 979 85 ft-lbs.
+112|1|W/ Steel rims: 132 ft-lbs; W/ light alloy rims: 95 ft-lbs
+113|1|Front brake caliper retaining bolts 103 ft-lbs + 45 degrees
+114|1|Nominal thickness can vary from 1.097 to 1.107 inch
+115|1|Nominal thickness can vary from 1.098 to 1.106 inch
+116|1|Nominal thickness can vary from 0.488 to 0.496 inch
+118|1|Tighten an additional 90 Lb-ft.
+119|1|Only if any components upstream of brake modulator
+119|2|including the modulator itself are replaced.
+120|1|Only for pressure bleeding.
+121|1|Then turn an additional 90 degrees
+122|1|Solid rear rotor 20 ft-lbs Vented rear rotor 27 ft-lbs.
+123|1|Tighten an additional 60 ft-lbs.
+124|1|Brake disc PR-No. 1ZF
+125|1|Brake disc PR-No. 1ZE
+126|1|Brake disc PR-No. 1LJ
+127|1|Brake disc PR-No. 1LK
+128|1|Brake disc PR-No. 1KQ, 1KD
+129|1|Brake disc PR-No. 1KF, 1KE
+130|1|Brake disc PR-No. 1KZ, 1KJ, 1KU
+131|1|Rear caliper, Torque to 90 Nm + additional 90 degrees.
+132|1|Always replace bolts. Lower bolt torque to 85 ft-lbs. Upper
+132|2|bolt torque to 103 ft-lbs.
+133|1|Without backing plate.
+134|1|PR NO can be used to identify the proper brake caliper/brake
+134|2|disc/brake pad combination. The sticker is located in the
+134|3|spare wheel recess and in the service booklet.
+135|1|With PR NO. 1LB, 1LE, 1LT, 1LF
+136|1|With PR NO. 1LA, 1LG
+137|1|With PR NO. 1LX, T7Z
+138|1|With PR NO 1LJ
+139|1|With backing plate included
+140|1|With steel wheel carrier torque to 44 ft-lbs. With aluminum
+140|2|wheel carrier 52 ft-lbs + 90 degrees. With FN-3.
+141|1|Turn an extra 90°
+142|1|Not installed on Brembo 17" with PR. No 1LE
+143|1|Plus an additional 90 degrees.
+144|1|2005-10 Crown Victoria, Grand Marquis if equipped with fire
+144|2|suppression system, the system must be depowered.
+144|3|Follow steps to depower.
+144|4|1.Turn all vehicle accessories OFF.
+144|5|2.Turn the ignition to OFF position.
+144|6|3.Remove the central fuse 33 (10A).
+144|7|4.Turn ignition to ON position and visually monitor the fire
+144|8|suppression system indicator for 30 seconds.
+144|9|If correct fuse is removed the indicator light will remain
+144|a|lit continuously (no flashing). Turn ignition to OFF
+144|b|position. Reverse procedure to repower system.
+145|1|Note: Do not allow the pump to run for more than 60 seconds
+145|2|or a cool down time of several minutes must be allowed.
+145|3|Warning! System pressures may be as much as 3000 PSI. A face
+145|4|shield should be worn and the connections covered with a rag
+145|5|when bleeding the system.
+146|1|Lug nut torque 89 ft-lb W/o washer on bolt with washer on
+146|2|with washer on bolt 103 ft-lb
+147|1|Without traction control
+148|1|With traction control
+149|1|Equipped with 17 inch disc
+150|1|Equipped with 18 inch disc
+151|1|Equipped with 16 inch disc
+152|1|Equipped with floating caliper.
+153|1|Equipped with fixed caliper.
+154|1|Plus an additional 40 degrees.
+155|1|Aluminum wheels 130 ft-lbs. Steel
+155|2|wheels 177 ft-lbs.
+156|1|Minimum front disc thickness after machining using a
+156|2|on-vehicle brake lathe 0.82 in.
+157|1|Tighten the guide pin bolt closest to the bleed valve first
+158|1|Then tighten an additional 60 degrees.
+159|1|Check for trouble codes after following procedure
+159|2|and clear any that are found.
+160|1|Nominal thickness can vary from 0.463 to 0.482 inch
+161|1|Nominal thickness can vary from 0.389 to 0.399 inch
+162|1|Nominal thickness can vary from 0.861 to 0.871 inch
+163|1|Nominal thickness can vary from 1.256 to 1.264 inch
+164|1|Nominal thickness can vary from 1.020 to 1.028 inch
+165|1|Nominal thickness can vary from 0.386 to .402 inch
+166|1|Nominal thickness can vary from 0.546 to .556 inch
+167|1|With 12 inch rotor.
+168|1|With 13 inch rotor.
+169|1|With 14 inch rotor.
+170|1|Aluminum Wheel: 97 ft lbs.  Steel Wheel: 154 ft lbs.
+171|1|Plus an additional 120 degrees.
+172|1|Install new lower caliper bolt.
+173|1|Chrome Wheel: 110 ft lbs.  Others Wheel: 88 ft lbs.
+174|1|Use SAAB thread locking compound 74 96 278 or
+174|2|equivalent. Front brake caliper bracket to knuckle torque
+174|3|103 ft lbs + 45 degrees.
+175|1|Wait at least 15 seconds between each bleeding step.
+176|1|Apply parking brake
+177|1|CAUTION: If a DTC is indicated, erase the DTC.
+177|2|After the procedure of air bleed, perform initialization
+177|3|of linear solenoid valve.
+177|4|NOTE: It is normal for the brake warning
+177|5|buzzer to activate during the air bleed procedure.
+178|1|Always replace bolts.
+179|1|Rear calipers w/ RPO code (JL9) Caliper 32 ft-lbs,
+179|2|with (J65) Caliper 25 ft-lbs.
+180|1|Uses electronic wear sensor system
+181|1|Then tighten additional 30°.
+182|1|Base Brake System Bleeding Note: When any part
+182|2|of the hydraulic system has been disconnected for repairs
+182|3|or installation of new components, air can get into the
+182|4|system and cause spongy brake pedal action.
+182|5|This requires bleeding of the hydraulic system, including
+182|6|the hydraulic control unit (HCU) after it has been
+182|7|correctly installed. If any components upstream of the HCU
+182|8|installed, the HCU bleeding procedure must be carried out.
+183|1|Note: When any part of the brake hydraulic system has been
+183|2|disconnected for repairs or installation of new components,
+183|3|air can get into the system and cause spongy brake pedal
+183|4|action. This requires bleeding of the hydraulic system
+183|5|including the control unit (HCU) after it has been correctly
+183|6|installed. If any components upstream of the HCU are
+183|7|installed, the HCU bleeding procedure must be carried out.
+184|1|Note: To bleed the brake system it is necessary to pressure
+184|2|bleed the system. When any part of the hydraulic system as
+184|3|disconnected for repairs or installation of new components,
+184|4|air can get into the system and cause spongy brake pedal
+184|5|action. This requires bleeding of the hydraulic system
+184|6|including the control unit (HCU) after it has been correctly
+184|7|installed. If any components upstream of the HCU are
+184|8|installed, the HCU bleeding procedure must be carried out.
+185|1|Note: To bleed the system it is essential to pump the brake
+185|2|pedal throughout the entire bleeding process. The bleed
+185|3|screw can remain open during the entire pumping process.
+186|1|Tightening torque M12 (130 Nm/96 ft-lbs)
+186|2|Tightening torque M14 (200 Nm/148 ft-lbs)
+187|1|M10x60 and M10x1.25x50 Tighten to 70 Nm + 90°
+187|2|M10x1.0x20  Tighten to 95 Nm
+188|1|Tighten additional 45 degrees plus additional 15 degrees
+189|1|Nominal thickness can vary from 1.019 to 1.029 inch
+190|1|Nominal thickness can vary from 0.463 to 0.482 inch
+191|1|Center caliper bolt 18 ft-lbs 25 Nm.
+192|1|Rear base model 26 ft-lbs; AWD, GT 20 ft-lbs.
+193|1|Rear base model 46 ft-lbs; AWD, GT 43 ft-lbs.
+194|1|DRW, Wheel tightening torque 140 ft-lbs.
+195|1|DRW Caliper to brake torque 56 ft-lbs
+196|1|A new lug nut with a recess on the flange was introduced
+196|2|at the end of the 2009 production. Tighten lug nut with
+196|3|recess on the flange to 96 ft-lb; W/o recess on flange
+196|4|tighten to 81 ft-lb.
+197|1|Wheel bolt, sheet-steel disk wheel 132 ft-lb.
+197|2|Wheel bolt, light alloy disk wheel 95 ft-lb.
+197|3|Wheel nut for sheet steel disk wheel  132 ft-lb.
+197|4|Wheel nut for light alloy disk wheel   111 ft-lb.
+197|5|Wheel nut for light alloy disk (2) piece 129 ft-lb.
+198|1|9 mm (wrench size) caliper slide pin tighten 44 ft-lb.
+198|2|7 mm (wrench size) caliper slide pin tighten 20 ft-lb
+199|1|Measure the disc runout 10 mm (.394 in) away from the outer
+199|2|edge on the vehicle with 5 lug nuts torque to 76 ft-lbs.
+200|1|Wear limit minimum weight and thickness dimension are
+200|2|stamped into the brake disc socket.
+201|1|Note: the SBC brake system must be bled menu assisted
+201|2|with STAR Diagnosis after removing / installing: SBC
+201|3|hydraulic unit, Operating unit, Suction line, Pressure
+201|4|reservoir, Brake line (any),or Brake caliper (any)
+202|1|Tighten an additional 60 Degrees.
+203|1|Measure the disk runout @ 10mm (0.394 in) away from the
+203|2|outer edge on the vehicle with lug nuts; torque to 82 ft lbs
+204|1|Measure the disk runout @ 10mm (0.394 in) away from the
+204|2|outer edge on the vehicle with lug nuts; torque to 76 ft lbs
+205|1|Measure the disk runout @ 10mm (.0394 in) away from the
+205|2|outer edge on the vehicle with lug nuts; torque to 97 ft lbs
+206|1|Measure the disk runout @ 10mm (0.394 in) away from the
+206|2|outer edge of the vehicle with lug nuts; torque to 83 ft-lbs
+207|1|Measure disk runout @ 10mm (0.394 in) away from the outer
+207|2|edge on the vehicle with lug nuts; torque to 97 ft-lbs for
+207|3|Aluminum Wheels and 154 ft-lbs for Steel Wheels.
+208|1|Z06 Caliper bolt, 30 ft-lbs; caliper to knuckle, 129 ft-lbs.
+209|1|Tighten to another 60 to 75 degrees.
+210|1|Tighten front to 74 ft-lbs, then turn 60 degrees and tighten
+210|2|final 15 degrees. Tighten rear to 67 ft-lbs then additional
+210|3|60 degrees.
+211|1|Rear brake w/floating caliper 84 ft-lbs,
+211|2|w/ fixed caliper, 133 ft-lbs.
+212|1|w/ fixed caliper, 195 ft-lbs.
+213|1|Runout limit with rotor attached to vehicle.
+214|1|Measured at 10mm inside the disk edge.
+215|1|When rotor is serviced on vehicle, .006.
+216|1|Read values on brake disc chamber.Brake disc cannot be
+216|2|machined.
+217|1|When rotor is serviced on vehicle, .007.
+218|1|If nut/bolt is 9MM then tighten to 55 Nm (41 ft-lbs).
+218|2|If nut is smaller (WAF 7) tighten to 30 Nm (22 ft-lbs)
+218|3|Replace nuts/bolts.
+219|1|With rotor installed.
+220|1|Discs that have cracks more than 1.18" in length, including
+220|2|the hole or cracks that extend to the edge must be replaced.
+222|1|Tighten to 74 ft-lbs, then turn an additional 90 degrees.
+223|1|Nominal diameter varies from 1.098-1.106 inches.
+224|1|Nominal diameter varies from .902-.909 inches.
+225|1|Nominal diameter varies from .350-.358 inches.
+226|1|Nominal diameter varies from 1.098-1.102 inches.
+227|1|Nominal diameter varies from .429-.437 inches.
+228|1|Nominal diameter varies from 8.268-8.272 inches.
+229|1|Nominal diameter varies from 8.264-8.268 inches.
+230|1|Torque to 111 ft-lbs, then 40-60° past.
+231|1|Torque to 74 ft-lbs, then 60-75° past.
+232|1|Aluminum wheels 93 ft-lbs, steel wheels 103 ft-lbs.
+233|1|Rear tighten additional 90° plus an additional 15°.
+234|1|Front caliper bolts built before 8/30/12 140 ft-lbs
+234|2|; Built after 8/30/12 121 ft-lbs.
+235|1|Tighten front caliper lower guide pin first.
+236|1|Rear wheel drive models.
+237|1|Front caliper bolts with single mark on bolt head 58 ft-lbs
+237|2|; With two marks on bolt head 100 ft-lbs.
+238|1|Front caliper bolts M8X70 18 ft-lbs; With M8X28 25 ft-lbs.
+239|1|Do not loosen front caliper bolts. The caliper and
+239|2|support must be removed complete, otherwise alignment
+239|3|of the caliper to the brake disk is not guaranteed.
+240|1|Model 207 M8X70 bolt: tighten to 18 ft-lbs: M8x28 bolt:
+240|2|tighten to 25 ft-lbs. M8x42: tighten to 41 ft-lbs.
+240|3|Model 212 M8x70 bolt: tighten to 18 ft-lbs. M8X28 bolt
+240|4|tighten to 25 ft-lbs.
+241|1|Front with alluminum thread: Step 1 59 ft-lbs, Step 2 45°;
+241|2|With steel sleeve: Step 1 110 ft-lbs, Step 2 45°
+242|1|Plus an additional 40 degrees with M14 bolt; Plus an.
+242|2|additional 30 degrees with M16 bolt.
+243|1|Front top and bottom bolt, 74 ft-lbs; .
+243|2|middle bolt, 18 ft-lbs.
+244|1|Measure the disk runout @ 10mm (0.394 in) away from the
+244|2|outer edge on the vehicle with lug nuts; torque to 89 ft lbs
+245|1|Off the vehicle. When mounted on the vehicle, .003.
+246|1|Tighten in two steps 1st 15 ft-lbs; 2nd 103 ft-lbs.
+247|1|Always replace bolts. Rear caliper bolt tighten additional
+247|2|90°.
+248|1|Always replace bolts. Rear caliper bolt With M10 thread 48
+248|2|ft-lbs; With M12 thread 81 ft-lbs.
+249|1|Then turn an additional 45 degrees plus additional 10 degree
+250|1|Rear caliper bolt with 2.4L or 3.0L engine with 7 passanger
+250|2|seating 38-48 ft-lbs.
+251|1|Always replace bolts. Rear caliper bolt With ceramic brakes
+251|2|111 ft-lbs plus an additional 90°.
+252|1|Plus an additional 75°.
+253|1|Fixed caliper; refer to caliper torque
+254|1|Then turn an additional 25°
+255|1|After initial torque, tighten an additional 15°
+255|2|then back off 30°
+256|1|Tighten another 60° to 75°.2014, tighten another 20° to 30°.
+257|1|Tighten an additional 15°-30°.
+258|1|2010-12, 110 ft-lbs; 2013, 111 ft-lbs for blue finish wheel
+258|2|nuts,140 ft-lbs for silver finish wheel nuts;
+258|3|2014-15 140 ft-lbs
+259|1|When measured on vehicle.
+260|1|Use on-vehicle lathe only when machining brake disc.
+261|1|Nominal Diameter 7.476 - 7.480
+262|1|W/ 1 PISTON. Top Bolt, 18 ft-lbs; bottom bolt, 20 ft-lbs
+263|1|Spec for non-carbon ceramin brake.  NS if equipped with
+263|2|carbon ceramic brakes.
+264|1|Stage 1, 3 ft-lbs;  stage 2, 52 ft-lbs;  stage 3, 92 ft-lbs.
+265|1|Measure the disc runout 7mm (0.276 inch) away from the outer
+265|2|edge of the front disc.  Discs that have cracks more than
+265|3|1.18" in length, including the hole or cracks that extend to
+265|4|the edge must be replaced.
+266|1|Installlug nuts to 88.5 ft-lbs before measurement;
+266|2|take measuurement 10mm inside the disc outer periphery.
+267|1|Tighten both bolts to 11 ft-lbs
+267|2|then tighten both bolts to 148 ft-lbs
+268|1|Replace screws, SW9 thread 41 ft-lbs (55nm),
+268|2|SW7 thread 22 - 26 ft-lbs (30 - 35 nm)
+269|1|Replace self-locking or microencapsulated screws
+270|1|Carbon ceramic discs must not be machined
+271|1|PCCB brake disc must not be machined.
+272|1|Up to VIN A4 PN 078 949.
+273|1|Measurment Includes backing plate.
+274|1|With DRW: 140 ft-lbs, 8-lug; 175 ft-lbs 10-lug.
+275|1|With cone type 5/8" nut, 175-225 ft-lbs. With flanged nut,
+275|2|300-350 ft-lbs. With 15" 5 stud wheel,
+275|3|80-110 ft-lbs. With 16" 8 stud wheel, 120-150 ft-lbs.
+276|1|Equus, Genesis coupe has 2 bleeder screws on the
+276|2|front caliper open both and bleed each wheel in sequence.
+277|1|Q50, Q70 Hybrid only: Turn the ignition switch ON without
+277|2|depressing the brake pedal when performing the procedure
+278|1|Aluminium wheels torque to 75 ft-lbs, steel wheels torque to
+278|2|63 ft-lbs.
+279|1|W/ V8
+280|1|W 15" Wheel
+281|1|Discs that have cracks more than 1.18" in length, including
+281|2|the hole or cracks that extend to the edge must be replaced.
+281|3|W/ 1KW, 1KE.
+282|1|W 16" Wheel
+283|1|2WD W/ SRW
+284|1|W/ ceramic rotors.
+285|1|W/O ceramic rotors.
+286|1|W/ M8 x 28 Bolts
+287|1|FSIII 15" 1ZE,1ZP
+288|1|Dual Piston Caliper
+289|1|Measured with backing plate included.
+290|1|W/FN 3 16"
+291|1|Measured with backing plate included.
+292|1|Convertible.Replace self-locking or microencapsulated screws
+293|1|Measured without backing pad.
+294|1|Measured without backing pad.
+295|1|1LT W/FN3 Caliper
+296|1|W/ Drum brakes
+297|1|Plus an additional 90°. W/ 1LT W/FN3 Caliper.
+298|1|W/ Disc brakes.
+299|1|Plus an additional 90°. W/ 1ZD W/ FN3 Caliper.
+300|1|Plus an additional 90°. W/ 1ZA W/ FN3 Caliper.
+301|1|Plus an additional 90°. W/ 1KZ, 1KE, 1KF
+302|1|Plus an additional 90°. W/ J57
+303|1|Plus an additional 90°. W/ 1KP,GP0,GP1,GP2
+304|1|Plus an additional 90°. W/ 1LM
+305|1|Measured without backing plate.
+306|1|Plus an additional 90°. W/ 2EA, 1KW
+307|1|Plus an additional 90°. W/ 1LA, 1LB, 1LJ/1ZT
+308|1|Plus an additional 90°. W/ 1KZ, 1KE, 1KF,1KJ
+309|1|Plus an additional 90°. W/ 1KD, 1KQ
+310|1|Plus an additional 90°. 1ZF W/ FS111 Caliper
+311|1|W/ 14" wheels
+312|1|Plus an additional 90°. W/ LS3, J56
+313|1|Plus an additional 90°. CII 43 -16" 1KD
+314|1|Plus an additional 90°. 1LK W/ FNR Caliper
+315|1|Plus an additional 90°. 1LJ W/ FBC 17" Calip
+316|1|W 17" wheels
+317|1|Plus an additional 90°. W/ CI 38
+318|1|Measured above rivet head.
+319|1|Plus an additional 90°. W/ L99, LS3
+320|1|Plus an additional 90°. W/ J56
+321|1|Plus an additional 90°. W/ 1KW,1KE,2EH,1KP
+322|1|Plus an additional 90°. W/ LFX
+323|1|Plus an additional 90°. 1ZC W/ FN3 Caliper
+324|1|Plus an additional 90°. 1LK W/ FNR G57
+325|1|Plus an additional 90°. 1LN W/ FNR G57
+326|1|Plus an additional 90°. W/ GP0,GP1,GP2,2ED
+327|1|Plus an additional 90°. W/ GP1,GP2,2ED,1KZ
+328|1|Shelby, Boss models
+329|1|Plus an additional 90°. 1ZM W/ FN3 Caliper
+330|1|Base, GT
+331|1|Plus an additional 90°. 1LJ W/ FN3 Caliper
+332|1|Plus an additional 90°. W/ CI 41
+333|1|Plus an additional 90°. W/ CII 43 -17" 1KP
+334|1|Plus an additional 90°. W/ V-8
+335|1|Plus an additional 90°. 1ZE W/ FN3 Caliper
+336|1|Plus an additional 90°. W/ 1KJ, 1KU
+337|1|Plus an additional 90°. W/ 1KZ
+338|1|Plus an additional 90°. Plus an additional 90°.
+339|1|Plus an additional 90°. W/ L99, LFX
+340|1|Plus an additional 90°. W/ 1KV
+341|1|Plus an additional 90°. W/ V-6
+342|1|Plus an additional 90°. W/ 1KF
+343|1|Plus an additional 90°. W/ 1KW, 1KE,1KP,GP0
+344|1|Plus an additional 90°. 1ZF W/ FNR Caliper
+345|1|Plus an additional 90°. 1KF, 1KE, 1KJ, 2EL
+346|1|Plus an additional 90°. 1LA W/ FBC 16" Calip
+347|1|Plus an additional 90°. 1LA W/ FBC 16" Calip
+348|1|Plus an additional 90°. W/ 1KW, 1KE,2EH,1KP
+349|1|Plus an additional 90°. W/ 1KW, 1KE,2EH,1KP
+350|1|Plus an additional 90°. W/ 2ED,1KZ
+351|1|Plus an additional 90°. 1LT W/ FN3 Caliper
+352|1|Plus an additional 90°. W/ 1LD
+353|1|Plus an additional 90°. W/ BREMBO 17/18"
+354|1|Plus an additional 90°. 1LM W/ FNR G57
+355|1|Plus an additional 90°. W/ 1KF, 1KJ, 1KU
+356|1|Plus an additional 90°. W/ 1KW, 1KE,2EH
+357|1|Plus an additional 90°. 1LL W/ FN3 Caliper
+358|1|With 17" Base Brakes:
+358|2|Front caliper bolts built before 8/30/12 140 ft-lbs;
+358|3|Built after 8/30/12 121 ft-lbs.
+359|1|With 18" Base Brakes:
+359|2|Front caliper bolts built before 8/30/12 140 ft-lbs;
+359|3|Built after 8/30/12 121 ft-lbs.
+360|1|W/ 1ZP W/ FN3 Caliper
+361|1|W/ JL9 Brakes
+362|1|2WD, Others
+363|1|STD VING00442-G45703
+364|1|W/ Vin C
+365|1|FN3 W/15" Wheels
+366|1|Floating Caliper
+367|1|SE-R Spec V Model
+368|1|W/ 2 Piston Caliper
+369|1|2WD, 1-Ton
+370|1|1LB, 1LE, 1LF, 1LT
+371|1|W/ Code ZO4
+372|1|W/ J90, J95, J96
+373|1|W/ 2.0L. Always replace bolts. Rear caliper
+373|2|bolt tighten additional 90°
+374|1|W/ 1KJ+1KQ . Always replace bolts. Rear caliper
+374|2|bolt tighten additional 90°
+375|1|Sedan. Always replace bolts. Rear caliper
+375|2|bolt tighten additional 90°
+376|1|W/ 1KU,1KK. Always replace bolts. Rear caliper
+376|2|bolt tighten additional 90°.
+377|1|W/ 1KW. Always replace bolts. Rear caliper
+377|2|bolt tighten additional 90°.
+378|1|W/ 1KW, 2EA. Always replace bolts. Rear caliper
+378|2|bolt tighten additional 90°.
+379|1|W/ 2EA,1KY,1KJ+1KQ. Always replace bolts. Rear caliper
+379|2|bolt tighten additional 90°.
+380|1|RPO CODES L26,L32
+381|1|Standard & Sport
+382|1|W/ brembo
+383|1|W/ 2EL,1KF
+384|1|W/ 2EL,1KF. Tighten additional 90°.
+385|1|W/ CTS-V J56
+386|1|Nat Aspir W/ Solid
+387|1|Wagon
+388|1|15 Inch
+389|1|9600 Series
+390|1|9600 Series. Then turn an additional 45 degrees
+391|1|S Limited
+392|1|FSIII
+393|1|1ZE W/ FN3 Caliper
+394|1|Lower
+395|1|W/ 1ZF. Rear caliper, Torque to 90 Nm +
+395|2|additional 90 degrees.
+396|1|W/ 1ZF
+397|1|W/ PPV. Turn an extra 90°
+398|1|W/ PPV.
+399|1|W/ LS
+400|1|W/ 4 piston caliper
+401|1|W/ 6 piston caliper
+402|1|Measurement includes backing plate
+403|1|Measured with backing plate included
+404|1|Measured with backing plate included
+405|1|Measurement includes backing plate
+406|1|May use electric wear sensor
+406|2|that lights an instrument panel indicator.
+407|1|W/ Standard caliper.
+408|1|W/ Turbo
+409|1|W/O Turbo
+410|1|Measurement includes backing plate
+411|1|Measurement ncludes backing plate
+412|1|Measurement includes backing plate
+413|1|GTI model rear includes backing plate
+414|1|Rear Measurement includes backing plate
+415|1|RWD
+416|1|FWD
+417|1|RWD models Above rivet head or backing plate.
+418|1|RWD models Above rivet head.
+419|1|WRX STI
+420|1|2.5I, WRX
+421|1|Measurement Includes backing plate.
+422|1|Measurement Includes backing plate.
+423|1|Measurement Includes backing plate.
+424|1|Measurement Includes backing plate.
+425|1|PPV model
+426|1|W/O HSV Package
+427|1|W/ HSV Package
+428|1|W/ 2-Door
+429|1|W/ 4-Door
+430|1|Measured above rivet head or backing plate.
+431|1|Measured without backing plate.
+432|1|Measured without backing plate.
+433|1|4WD
+434|1|Measurement Includes backing plate.
+435|1|W/ FNR G60
+436|1|W/ FN-3
+437|1|W/ C43
+438|1|W/ C41
+439|1|Measurement  Includes backing plate.
+440|1|W/ 2FNR 42 AL
+441|1|W/O 1LT Package
+442|1|W/ 1LT Package
+443|1|W/ Riveted linings
+444|1|W/ Bonded linings
+445|1|W/ Riveted linings above rivet head or backing plate.
+446|1|W/ Bonded linings above rivet head or backing plate.
+447|1|W/ 2.8L
+448|1|W/ 3.0L
+449|1|Hybrid
+450|1|Gas
+451|1|Diesel
+452|1|Inner or Outer
+453|1|Inner
+454|1|GTI model
+455|1|Except GTI model
+456|1|2WD
+457|1|W/ 2WD if equipped with aluminum wheels, 65-80 ft-lbs.
+458|1|W/ 2WD With cone type nut & 9/16-18 threads, 120-150 ft-lbs.
+458|2|With flanged nut, 130-160 ft-lbs.
+459|1|W/ 2WD 5-lug 1/2", 100. 5-lug 9/16", 120.
+459|2|6-lug, steel whl., 90. 8-lug SRW, 120. 8-lug DRW, 140.
+460|1|W/ 2WD if equipped with aluminum wheels, 90.
+461|1|W 2WD if equipped with optional wheels, 100.
+462|1|W/ 2WD if equipped with aluminum wheels, 87
+463|1|W/ 2WD if equipped with styled wheels, 87-101.
+464|1|W/ 2WD 12mm, 100 ft-lbs. 14mm, 150 ft-lbs
+465|1|W/ 2WD loaded Vehicle, 165 ft-lbs.
+466|1|W/ 4WD if equipped with aluminum wheels, 65-80 ft-lbs.
+467|1|W/ 4WD With cone type nut & 9/16-18 threads, 120-150 ft-lbs.
+467|2|With flanged nut, 130-160 ft-lbs.
+468|1|W/ 4WD 5-lug 1/2", 100. 5-lug 9/16", 120.
+468|2|6-lug, steel whl., 90. 8-lug SRW, 120. 8-lug DRW, 140.
+469|1|W/ 4WD if equipped with aluminum wheels, 90.
+470|1|W 4WD if equipped with optional wheels, 100.
+471|1|W/ 4WD if equipped with aluminum wheels, 87
+472|1|W/ 4WD if equipped with styled wheels, 87-101.
+473|1|W/ 4WD 12mm, 100 ft-lbs. 14mm, 150 ft-lbs
+474|1|W/ 4WD loaded Vehicle, 165 ft-lbs.
+475|1|With Steel wheel
+476|1|Nut type Alloy rim
+477|1|Nut  Alloy 2 piece
+478|1|Bolt type Alloy rim
+479|1|W/ code 98 133 ft-lbs, W/O code 98 96 ft-lbs.
+480|1|W/ Steel wheel 177 ft-lbs, aluminum 133 ft-lbs.
+481|1|W/ blue cone seats 111 ft-lbs, silver cone seats 140 ft-lbs.
+482|1|W/O Chrome Wheel 88.5 ft-lbs, W/ Chrome Wheel 111 ft-lbs.
+483|1|W/ FWD 103 ft-lbs, W/ AWD 89 ft-lbs.
+484|1|W/ DRW
+485|1|W/ SRW
+486|1|Light Duty W/ 2WD
+487|1|W/ 8-LUG
+488|1|W/ 5-LUG
+489|1|w/ 2WD, SRW
+490|1|w/ 2WD, DRW
+491|1|w/ 4WD, SRW
+492|1|w/ 4WD, DRW
+493|1|1 Ton SRW 76 ft-lbs, DRW 126 ft-lbs
+494|1|Wagon 4Matic
+495|1|2WD S-Runner, DLX
+496|1|2WD, 4WD
+497|1|W/ 4000# Rear Axle 175-225 ft-lbs,  W/O 4000# Rear Axle
+497|2|85-125 ft-lbs.
+498|1|W/ 12mm 100 ft-lbs, 14mm 150 ft-lbs.
+499|1|W/ SOHC  65-87 ft-lbs, W/ DOHC 85-105 ft-lbs.
+500|1|W/ CII 38
+501|1|W/ CII 38. Then turn an additional 90 degrees
+502|1|W/ 1LA, 1LD, 1LJ
+503|1|W/ 1LA, 1LJ+FMO. Always replace bolts.
+504|1|W/ 1LA, 1LJ+FMO.
+505|1|W/ 1LK W/ FNR 42, 18"
+506|1|W/ 1LK W/ FNR Caliper
+507|1|W/ 1LK W/ FNR G57
+508|1|Plus 30 Degrees
+509|1|Wishbone Susp.
+510|1|W/O M12 Bolts.
+511|1|Late
+512|1|W/ 1LZ
+513|1|W/ 3.0L. Always replace bolts. Rear caliper bolt With M10
+513|2|thread 48 ft-lbs; With M12 thread 81 ft-lbs.
+514|1|W/ J92, JD9 2500
+515|1|W/ Double Piston.
+516|1|2WD
+517|1|2WD. Key screws listed. Caliper mounting bolts,
+517|2|155-185 ft-lbs.
+518|1|W/ 1 Piston Caliper.
+519|1|W/ FWD
+520|1|W/ FWD. Then turn an additional 90 degrees
+521|1|W/FN3, 15"
+522|1|W/FN3, 16"
+523|1|W/ 13 inch brakes
+524|1|Sedan
+525|1|Sedan. With solid rotor.
+526|1|Sedan. With vented rotor.
+527|1|Sedan. Always replace bolts.
+528|1|Sedan. Always replace bolts. Rear caliper bolt tighten
+528|2|additional 90°.
+529|1|Coupe JE5/J55
+530|1|W/ 15" Wheels
+531|1|W/14" Wheels
+532|1|W/ FN3 W/16" Wheels
+533|1|W/ Single Rear Wheels
+534|1|W/ 15" Wheels FN3
+535|1|W/ 16" Wheels FN3
+536|1|With Aluminum Wheels
+537|1|W/O Aluminum Wheels
+538|1|Front w/ washer bolt
+539|1|Single Piston Caliper
+540|1|W/ 4 Piston fixed Caliper.
+541|1|W/ 4 Piston Caliper
+542|1|W/ Small Bolts
+543|1|TMMK
+544|1|W/ 1LK, 1ZK
+545|1|Brembo 1LP
+546|1|1LM W/ FNR G57
+547|1|Standard/Heavy Duty. Equipped with fixed caliper.
+548|1|Standard/Heavy Duty.
+549|1|W/ JC5/JH5
+550|1|JH6/JH7
+551|1|W/ JH6
+552|1|AKEBONO
+553|1|Non Natural Gas
+554|1|To 1/1/76
+555|1|1LG W/ FNR G60, 16"
+556|1|1LG W/ FNR G60 Calip
+557|1|W/ 1LU
+558|1|Gasoline
+559|1|W/ Twin Piston
+560|1|W/ 1LV. Always replace bolts.
+561|1|W/ 1LV.
+562|1|1LH W/ FNR G60 Calip
+563|1|To 1/89
+564|1|17 Inch
+565|1|W/O 4-Wheel Disc
+566|1|W/ 4-Wheel Disc
+567|1|W/ RPO J55
+568|1|W/ 1KD, 2ED,1KW, 2EE
+569|1|W/ J60, J61 Caliber
+570|1|1500 W/ JC5/JH5
+571|1|W/O RPO Code B07
+572|1|W/O RPO Code B07. Then turn an additional 45 degrees
+573|1|13'' Inch
+574|1|W/ 1KZ, 1KE, 1KF
+575|1|W/CLL 41 17"
+576|1|W/CLL 41 17". Then turn an additional 90 degrees.
+577|1|W/ Floating calipers. W/ fixed caliper, 195 ft-lbs.
+587|1|W/ Floating calipers
+588|1|W/ 2EH,1KP,GP0,GP1. Discs that have cracks more
+588|2|than 1.18" in length, including the hole or cracks
+588|3|that extend to the edge must be replaced.
+589|1|W/ 1LB. Discs that have cracks more
+589|2|than 1.18" in length, including the hole or cracks
+589|3|that extend to the edge must be replaced.
+590|1|W/ 1LB
+591|1|W/ M10 Bolt(s)
+592|1|M8X28 Bolts
+593|1|Performace Brakes
+594|1|R18A4 ENG
+595|1|Rear
+596|1|Rear. Always replace bolts.
+597|1|Rear. Then turn an additional 25°
+598|1|FWD: ATE, Kelsey
+599|1|W/ Code B07.
+600|1|W/ Code B07.  Do not loosen front caliper bolts.
+600|2|The caliper and support must be removed complete,
+600|3|otherwise alignment of the caliper to the brake disk
+600|4|is not guaranteed.
+601|1|W/ Code B07. Then turn an additional 45 degrees.
+602|1|W/ High performanc
+603|1|Up To 9/2002
+604|1|Up To 9/2002. Front all with code Z07 + 979:
+604|2|133 ft-lbs. All without code Z07 + 979 85 ft-lbs.
+605|1|W/ V-6
+606|1|W/ 1LJ. Always replace bolts.
+607|1|W/ 1LJ.
+608|1|W/ J92, JD9 1500
+609|1|VA Type
+610|1|W/ 1KW,1KY,1KZ. Always replace bolts.
+611|1|W/ 1KW,1KY,1KZ. Then turn an additional 90 degrees.
+612|1|Early
+613|1|From 2/89
+614|1|C1500, K1500
+615|1|W/ V-8 (LSA)
+616|1|W/ 1KK, 1KS, 1KV, 1KX
+617|1|W/ 1LL.
+618|1|W/ 1LL. Always replace bolts.
+619|1|W/ JC5/JH5 Brakes
+620|1|W/ 1KV
+621|1|Front JE5
+622|1|Front JE5.  Tighten an additional 30°.
+623|1|Front. Tighten an additional 45 degrees.
+624|1|Front. Then turn an additional 90 degrees.
+625|1|Front. Always replace bolts.
+626|1|W/ Brembo.With steel wheel carrier torque to 44 ft-lbs. With
+626|2|aluminum wheel carrier 52 ft-lbs + 90 degrees. With FN-3.
+627|1|W/ 16.0" disc
+628|1|W/ 15.0" disc
+629|1|Sliding Caliper
+630|1|2WD, PD60 type
+631|1|Lucas
+632|1|RPO CODES LS4
+633|1|W/ 2.8L. Caliper to bracket. Bracket to knuckle, 34 ft-lbs.
+634|1|TMC
+700|1|W/ 7/16" studs 80 ft-lbs, 1/2" studs 105 ft-lbs.
+701|1|Police
+702|1|Coupe
+703|1|W/ Alum 7/16" Stud 90 ft-lbs, W/ Alum 1/2" Stud 105 ft-lbs
+704|1|W/ 4-Cyl
+705|1|Electric vehicle
+706|1|Front
+707|1|W/ SRW Rear
+708|1|W/ DRW Rear
+709|1|SVT
+710|1|W/ RWD If equipped aluminum wheels, 58-73 ft-lbs.
+711|1|W/ FWD If equipped aluminum wheels, 58-73 ft-lbs.
+712|1|W/ RWD If equipped aluminum wheels, 87 ft-lbs.
+713|1|W/ FWD If equipped aluminum wheels, 87 ft-lbs.
+714|1|Minimum measurement value brake pad (x2) + brake disc
+714|2|wheel size 16.5" 1.5 in, wheel size 17.5" 1.26 in,
+714|3|wheel size 17"2 FN 1.34 in.
+715|1|Thru 2/89
+716|1|From 2/89
+717|1|6-Cyl
+718|1|Coupe,Wagon,CTS-V
+719|1|W/ RPO J57
+720|1|With RPO code JD9
+721|1|With RPO code J95
+722|1|With RPO code J96
+723|1|With base brakes.
+724|1|With premium brakes.
+725|1|With 17" solid rotors.
+726|1|With 17" vented rotors.
+727|1|With 10.83" rotor.
+728|1|With 11.70" rotor.
+729|1|W/ 17" black caliper. Turn and additional 90°. Always
+729|2|bolts after removal.
+730|1|W/O 17" black caliper.
+731|1|W/ JC5/JH5 caliper.
+732|1|W/ JH6 caliper.
+733|1|Allowable variation of disc pads 0.0004
+734|1|Turn an additional 90°. Use new bolts.
+735|1|Tighten another 20° to 30°.
+736|1|Turn an additional 30° to 45°.
+737|1|Replace bolts. Turn an additional 15° to 30°.
+738|1|Front caliper top bolt, 18 ft-lbs. Front caliper bottom
+738|2|bolt, 20 ft-lbs.
+739|1|Vehicles with EPB, 36-43 ft-lbs.
+740|1|Pad guide tie rods for fixed caliper.
+741|1|Always replace bolts. Tighten an additional 75°.
+742|1|With code P98, tighten to 133 ft-lbs. Without code P98,
+742|2|tighten to 96 ft-lbs.
+743|1|Front caliper bolts with M8X70 bolt, tighten to 21 ft-lbs.
+743|2|With M8X28 bolt, tighten to 25 ft-lbs.
+744|1|M8x1 bolt, 23 ft-lbs; M10x1.25 bolt, 48 ft-lbs.
+745|1|With M14x1.5 bolt: Tighten to 59 ft-lbs then turn an
+745|2|additional 30°. With M16x1.5 bolt: Tighten to 59 ft-lbs
+745|3|then turn an additional 40°.
+746|1|Always replace bolts. Turn an additional 90°.
+747|1|With SW9 bolts.
+748|1|With SW7 bolts.
+749|1|With WAF 7 bolts. Replace bolts.
+750|1|With WAF 13 bolts. Replace bolts.
+751|1|With SW8 bolts.
+753|1|Without 4Matic and code 1U9, with code 950/P96/951, 460/951,
+753|2|and 494.
+755|1|With codes 950/951/952/P96.
+756|1|Without codes 950/951/952/P96.
+757|1|Without code P31, with code 494+P31, BlueTEC without code
+757|2|Z04/Z05.
+758|1|With code P31 and without code 494, BlueTEC with code
+758|2|Z04/Z05.
+759|1|Without code 494, with code 494+P31, BlueTEC with code
+759|2|Z04/Z05.
+780|1|With code 494 and without code P31, BlueTEC without code
+780|2|P31/Z04/Z05.
+781|1|V Series, 110 ft-lbs. Non V Series, 100 ft-lbs.
+782|1|Use new bolts. Tighten an additional 45° plus an additional
+782|2|15°.
+783|1|Use new bolts. Tighten an additional 60°.
+784|1|Vehicles with ABS: Bleed brake system using the WDS unit.
+785|1|Tighten bolt w/washer, 98 ft-lbs; w/o washer, 91 ft-lbs.
+786|1|Heavy Duty
+787|1|Discs w/o Front indentation (Type A).
+788|1|Dics w/Front indentation (Type B).
+789|1|Turn an additional 45° to 60°.
+790|1|Tighten another 20° to 35°.
+791|1|Nominal thickness can vary from .940 to .952 inch
+792|1|Nominal thickness can vary from 1.098 to 1.110 inch
+793|1|Nominal thickness can vary from 1.251 to 1.224 inch
+794|1|Nominal thickness can vary from .625 to .637 inch
+795|1|With cone style nut, 130 ft-lbs. With flanged style nut
+795|2|140 ft-lbs.
+796|1|Front bolts with 12 mm bolts, 66 ft-lbs + 120°.
+796|2|With 14 mm bolts 148 ft-lbs. Install new bolts.
+797|1|With steel wheel, 148 ft-lbs. With alloy wheel, 133 ft-lbs.
+798|1|Without 4Matic W/ code 1U9, W/O code  460, 494, 950, 951
+798|2|and P96.
+799|1|Without codes 1U9, 460, 494, 950, 951, P96
+800|1|Without codes 950/951/951P96
+801|1|With codes 950/951/951P96
+802|1|Measure the disc runout @ 10 mm (0.394) away from
+802|2|the outer edge on the vehicle; tighten lug nuts to
+802|3|specification.
+803|1|Tighten in 3 steps: 1st 3 ft-lbs, 2nd 39 ft-lbs,
+803|2|3rd 103 ft-lbs.
+804|1|If using wrench size 9mm.
+805|1|Nominal thickness can vary from 1.097 to 1.107 inch
+806|1|Uneven at 1 position, .0003; uneven at 2 positions, .0002;
+806|2|uneven at 3 positions, .0002; uneven at 4 positions or more,
+806|3|not allowed.
+807|1|Cone type nut.
+808|1|Flanged type nut.
+809|1|Tighten to 65 - 79 ft lbs.
+810|1|Tighten to 79 - 94 ft lbs.
+811|1|With M12 bolt, 89ft-lbs. With M14 bolt, 59ft-lbs, then turn
+811|2|an additional 45 degrees.
+812|1|Install new bolts.
+813|1|Always replace bolts. Turn an additional 70°.
+814|1|Install new bolts. Turn an additional 45° to 60°.
+815|1|Install new bolts. Tighten to another 60 to 75 degrees.
+816|1|Install new bolts. Tighten an additional 20 degrees.
+817|1|Nominal thickness can vary from 1.264 to 1.256 inch
+818|1|Brake discs need to be replaced every time the pads
+818|2|are changed.

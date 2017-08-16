@@ -1,0 +1,63 @@
+
+SQL*Loader: Release 12.2.0.1.0 - Production on Wed Aug 16 09:42:47 2017
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   .\CTL\DRUM.ctl
+Data File:      .\DRUM.dsv
+  Bad File:     .\BAD\DRUM.bad
+  Discard File: .\DIS\DRUM.dis 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MOTOR_DRUM, loaded from every logical record.
+Insert option in effect for this table: REPLACE
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+RECNO                               FIRST  4000   |  O(") CHARACTER            
+                                                      O(")
+SUBMOD                               NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+TYPE                                 NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+NOMDIA                               NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+RUNOUT                               NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+MAXMACH                              NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+DISCARD                              NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+NOTD                                 NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+
+value used for ROWS parameter changed from 64 to 7
+
+Table MOTOR_DRUM:
+  750 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 224112 bytes(7 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:           750
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Aug 16 09:42:47 2017
+Run ended on Wed Aug 16 09:42:51 2017
+
+Elapsed time was:     00:00:03.83
+CPU time was:         00:00:00.92

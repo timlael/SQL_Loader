@@ -1,0 +1,61 @@
+
+SQL*Loader: Release 12.2.0.1.0 - Production on Wed Aug 16 09:44:37 2017
+
+Copyright (c) 1982, 2017, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   .\CTL\LINING.ctl
+Data File:      .\LINING.dsv
+  Bad File:     .\BAD\LINING.bad
+  Discard File: .\DIS\LINING.dis 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 1
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table MOTOR_LINING, loaded from every logical record.
+Insert option in effect for this table: REPLACE
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+RECNO                               FIRST  4000   |  O(") CHARACTER            
+                                                      O(")
+SUBMOD                               NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+LOC                                  NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+MINPAD                               NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+MINSHOE                              NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+NOTP                                 NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+NOTS                                 NEXT  4000   |  O(") CHARACTER            
+                                                      O(")
+
+value used for ROWS parameter changed from 64 to 9
+
+Table MOTOR_LINING:
+  1001 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 252126 bytes(9 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          1
+Total logical records read:          1001
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Wed Aug 16 09:44:37 2017
+Run ended on Wed Aug 16 09:44:39 2017
+
+Elapsed time was:     00:00:01.65
+CPU time was:         00:00:00.83
